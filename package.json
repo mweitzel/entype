@@ -1,0 +1,7 @@
+{
+  "name": "entype"
+, "author": "Matthew Weitzel"
+, "license": "MIT"
+, "dependencies": "underbind"
+, "version": "0.0.0"
+}
